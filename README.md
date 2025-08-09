@@ -3,6 +3,10 @@
 ## Overview
 This guide explains how to set up Git and sync with GitHub using Personal Access Token (PAT). This documentation is created for learning purposes and testing GitHub synchronization.
 
+## Github Workflow
+![Workflow](img/Workflow_Github.jpeg)
+
+
 ## Prerequisites
 - Git installed on your local machine
 - GitHub account
