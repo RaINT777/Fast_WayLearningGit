@@ -1,0 +1,200 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Page-1" id="E7rh_B6L9xAVsyAGuSe6">
+    <mxGraphModel dx="1278" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="simple">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-51" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Experimental Zone or Debugging Zone&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="590" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-50" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;This is Stagging Area&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="13.75" y="170" width="616.25" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-1" value="Workflow Usage Git and Gihub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;textShadow=1;labelBackgroundColor=none;rounded=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="3" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-3" target="MVgv-xwYIcZxBujxrSqy-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="87" />
+              <mxPoint x="270" y="87" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;1.Dawnload &amp;amp; Instal Git&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;2.Create Github Account&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="13.75" y="43" width="240" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-4" value="git config --global user.name &quot;Your Username&quot;&lt;div&gt;git config --global user.email &quot;Your Email&quot;&lt;/div&gt;" style="html=1;rounded=1;fontSize=14;fontStyle=1;align=left;textShadow=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="53" width="330" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-5" value="--lobal for global scope&lt;div&gt;--local for curret repo&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="650" y="20" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;width=16;endSize=9.8;exitX=0.2;exitY=1.08;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="90" as="sourcePoint" />
+            <mxPoint x="620" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-8" target="MVgv-xwYIcZxBujxrSqy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-8" value="git init&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(for initialize git into a repository)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;align=center;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-10" target="MVgv-xwYIcZxBujxrSqy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-10" value="git add . or fileName&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(for adding files/folder into stagging area)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="27.130000000000003" y="180" width="226.62" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-11" target="MVgv-xwYIcZxBujxrSqy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-11" value="git commit -m &quot;Massage/info&quot;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(give massage or info what added/editing you doing&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="29.999999999999993" y="335" width="245" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-12" target="MVgv-xwYIcZxBujxrSqy-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="320" />
+              <mxPoint x="670" y="320" />
+              <mxPoint x="670" y="400" />
+              <mxPoint x="690" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-12" value="git remote origin &quot;link github repository&lt;div&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;(to select remote github repository)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="349.99" y="340" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-13" target="MVgv-xwYIcZxBujxrSqy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-13" value="git push -u origin main&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(to push local project into github)&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-14" target="MVgv-xwYIcZxBujxrSqy-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-14" value="git branch &quot;new-branch&quot;&#xa;(for create new branch" style="fontSize=14;rounded=1;fontStyle=1;labelBorderColor=none;labelBackgroundColor=none;shadow=1;spacing=2;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="79.99000000000001" y="530" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-15" target="MVgv-xwYIcZxBujxrSqy-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-15" value="&lt;span style=&quot;&quot;&gt;&lt;b&gt;git checkout &quot;branch-name&quot;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;(to move or select a branch)&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;fontStyle=0;labelBorderColor=none;labelBackgroundColor=none;shadow=1;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="530" width="220.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-16" value="git status&amp;nbsp;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;to checking status&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=13;fontStyle=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.413;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-4" target="MVgv-xwYIcZxBujxrSqy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-19" target="MVgv-xwYIcZxBujxrSqy-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="760" />
+              <mxPoint x="110" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-53" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-55" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-19" target="MVgv-xwYIcZxBujxrSqy-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;git chekcout -b &quot;branch-name&quot;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;( to create new and move into the new branch)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-20" target="MVgv-xwYIcZxBujxrSqy-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-20" target="MVgv-xwYIcZxBujxrSqy-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="930" />
+              <mxPoint x="358" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-59" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-20" target="MVgv-xwYIcZxBujxrSqy-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="880" />
+              <mxPoint x="420" y="910" />
+              <mxPoint x="480" y="890" />
+              <mxPoint x="470" y="910" />
+              <mxPoint x="450" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;git log -oneline&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;to check log history commit in one line&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="59.99999999999999" y="830" width="271.25" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;git revert &quot;hash code&quot;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;to undo into selected hash code&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="990" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-22" value="&lt;b&gt;git blame&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1010" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;git reset --hard&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;to hard reset into first step&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="995" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endSize=6.58;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;width=15;endWidth=53;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0.379;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="190" as="sourcePoint" />
+            <mxPoint x="610" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="702" y="220" />
+              <mxPoint x="650" y="220" />
+              <mxPoint x="630" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=default;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;entryX=0.6;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;comic=0;fixDash=0;snapToPoint=0;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-13" target="MVgv-xwYIcZxBujxrSqy-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="470" as="sourcePoint" />
+            <mxPoint x="680" y="534" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-60" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;strokeWidth=2;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-63" value="" style="edgeStyle=none;curved=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="MVgv-xwYIcZxBujxrSqy-52" target="MVgv-xwYIcZxBujxrSqy-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-52" value="&lt;b&gt;After Fixing code or Experimental Ideas&lt;/b&gt;&lt;div&gt;&lt;b&gt;You needed to push curenlty branch then&amp;nbsp; merge into main branch&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;comic=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="855" width="155" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-54" value="" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;labelBackgroundColor=none;comic=0;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MVgv-xwYIcZxBujxrSqy-56" value="&lt;b&gt;git merge origin main&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;comic=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1025" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
